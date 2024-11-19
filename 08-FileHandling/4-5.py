@@ -1,0 +1,1 @@
+pattern = r"From:.*<([A-z.]+)@([A-z.]+)"
