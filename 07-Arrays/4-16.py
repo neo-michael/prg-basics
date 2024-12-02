@@ -1,0 +1,2 @@
+tup = ("computer",)
+print(tup)
